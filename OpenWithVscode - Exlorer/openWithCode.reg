@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\OpenWithVSCode]
+@="Open with VSCode"
+"Icon"="C:\\Users\\User\\OneDrive\\Software\\Portables\\VSCode\\Code.exe"
+
+[HKEY_CLASSES_ROOT\*\shell\OpenWithVSCode\command]
+@="\"C:\\Users\\User\\OneDrive\\Software\\Portables\\VSCode\\Code.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\Directory\shell\OpenWithVSCode]
+@="Open with VSCode"
+"Icon"="C:\\Users\\User\\OneDrive\\Software\\Portables\\VSCode\\Code.exe"
+
+[HKEY_CLASSES_ROOT\Directory\shell\OpenWithVSCode\command]
+@="\"C:\\Users\\User\\OneDrive\\Software\\Portables\\VSCode\\Code.exe\" \"%1\""
