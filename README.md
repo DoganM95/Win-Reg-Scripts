@@ -8,3 +8,4 @@ Some scripts may be Win 11 specific and not apply to win 10.
 - `PasswordPromptOnResume`: Disable to prevent windows from asking you for a password when resuming the pc from sleep.
 - `ShowFullContextMenuByDefault`: Makes the right click context menu always show all options, as if you pressed show more.
 - `EnableHibernateOption`: Enables the Hibernate option, also in old Control Panel, so it becomes available as lid/button option. A good side effect: the *Turn on fast start-up* option also appears. 
+- `OpenWithVscode - Explorer`: A context menu entry to open files/folders with a portable vscode.
