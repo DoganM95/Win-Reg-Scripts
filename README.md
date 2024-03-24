@@ -13,7 +13,7 @@ Some scripts may be Win 11 specific and not apply to win 10.
   - Fix for broken executable icons in taskbar and explorer
 - `PasswordPromptOnResume`:
   - Removes password prompt when waking the device from sleep
-- `ShowFullContextMenuByDefault`:
+- `ShowFullContextMenuByDefault - Explorer`:
   - Shows the extended right click by default, as if pressed "show more"
   - Requires a reboot
 - `EnableHibernateOption`:
